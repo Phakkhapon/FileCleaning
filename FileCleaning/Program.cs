@@ -10,6 +10,7 @@ namespace FileCleaning
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
